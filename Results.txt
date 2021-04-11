@@ -1,0 +1,9 @@
+Finding the Longest strand
+Processing selected file sets
+
+
+Results from processed file sets
+
+Largest matching strand 27647
+in sample.2 at offset 3072
+and in sample.3 at offset 17408
